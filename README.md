@@ -24,4 +24,3 @@ Der Server läuft dann auf http://localhost:10000.
 2. Game-Logic (Deck mischen, dealCards, playCard)  
 3. Redis-Integration für State  
 4. Deployment auf Render.com
-```  
