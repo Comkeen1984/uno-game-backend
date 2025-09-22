@@ -1,8 +1,5 @@
-# UNO Game Backend
-
-## Installation
-
-```bash
+UNO Game Backend
+Installation
 git clone https://github.com/Comkeen1984/uno-game-backend.git
 cd uno-game-backend
 npm install
